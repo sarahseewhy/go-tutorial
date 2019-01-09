@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -14,10 +13,3 @@
 
 # IDE output
 .idea/
-
-
-=======
-.idea/*
-/bin
-/pkg
->>>>>>> chore(version-control): update gitignore to include all files under .idea.
